@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ralph\\OneDrive\\Desktop\\StockMarket\\api\\api.csproj": {}
+    "C:\\Users\\ralph\\OneDrive\\Desktop\\StockMarket\\api\\api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ralph\\OneDrive\\Desktop\\StockMarket\\api\\api.csproj": {
+    "C:\\Users\\ralph\\OneDrive\\Desktop\\StockMarket\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ralph\\OneDrive\\Desktop\\StockMarket\\api\\api.csproj",
+        "projectUniqueName": "C:\\Users\\ralph\\OneDrive\\Desktop\\StockMarket\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "c:\\Users\\ralph\\OneDrive\\Desktop\\StockMarket\\api\\api.csproj",
+        "projectPath": "C:\\Users\\ralph\\OneDrive\\Desktop\\StockMarket\\api\\api.csproj",
         "packagesPath": "C:\\Users\\ralph\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ralph\\OneDrive\\Desktop\\StockMarket\\api\\obj\\",
+        "outputPath": "C:\\Users\\ralph\\OneDrive\\Desktop\\StockMarket\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ralph\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

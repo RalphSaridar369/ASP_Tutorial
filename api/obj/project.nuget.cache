@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8JeUEk6uYF3ckjfGp5gSG1oHpTCGiEv9TSwFpk/sSPioYWkvNxuRn0VFEHslF2CHIhiSKWU+fnTYwjDmWcsDSg==",
+  "dgSpecHash": "GK/oBsumDNBrRcQfsIf9qcqjAipk0jHp82+T8kLOCu4q78cNBqt4DoF4TaEGjs1k5c49JCKprlvRAoDF2ETZHw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\ralph\\OneDrive\\Desktop\\StockMarket\\api\\api.csproj",
+  "projectFilePath": "C:\\Users\\ralph\\OneDrive\\Desktop\\StockMarket\\api\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ralph\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ralph\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
